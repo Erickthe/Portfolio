@@ -39,5 +39,21 @@ Adobe Illustrator
 Adobe After effects
 Da Vinci
 
+
+### Abri post-apocalyptique
+
+Ce projet est basé sur le jeu Project Zomboid. C'est un abri qui sert à se défendre des zombies et de survivre dans ce monde post-apocalyptique. Donc il y a des med-kits, des provisions comme des boîtes de conserve de soupe de tomate, une batte de base-ball, etc.
+
+J'ai modélisé des boîtes de conserve et la batte de baseball.
+Les logiciels utilisés dans le cadre du projet étaient:
+Maya
+Unity
+
 Processus de création:
+
+
+
+
+
+
 
