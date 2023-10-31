@@ -27,3 +27,17 @@ Max
 
 ## Projets
 
+### Fusion
+
+
+Ce projet est basé sur un poème créé par des membres d'un autre programme nommé Fusion. Ce court métrage oû j'incarne le personnage démontre mon personnage qui travaille dans une centrale nucléaire et essaie de toute ses forces de stabiliser un réacteur nucléaire.
+
+Mon rôle dans ce projet était de jouer le personnage principal, de créer certaines illustrations et de les animer, et finalement faire une partie du montage vidéo.
+
+Les logiciels utilisés dans le cadre du projet étaient:
+Adobe Illustrator
+Adobe After effects
+Da Vinci
+
+Processus de création:
+
