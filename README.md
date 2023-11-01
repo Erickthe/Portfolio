@@ -1,6 +1,6 @@
 # Portfolio
 
-<img src="medias/leonardo-severini-pose2.jpg">
+
 
 
 ## Informations générales
